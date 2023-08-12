@@ -1,0 +1,3 @@
+[launch]
+method = "exe"
+path = "spider_test_package.exe"
